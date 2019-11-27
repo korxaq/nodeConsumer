@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "AccountingCashGamesDB",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres",
+    "pool": {
+      "max": 15,
+      "min": 0,
+      "idle": 10000
+    },
+    "logging": false
+  }
+}

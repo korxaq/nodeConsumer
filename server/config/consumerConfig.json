@@ -1,0 +1,9 @@
+{
+  "host": "10.55.2.100:2181",
+  "groupId": "AccountingTestGroup13",
+  "sessionTimeout": 15000,
+  "protocol": ["roundrobin"],
+  "fromOffset": "earliest",
+  "autoCommit": false,
+  "fetchMaxBytes": 3072
+}
