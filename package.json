@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "kafka-node": "^2.4.1",
     "morgan": "^1.9.0",
     "pg": "^7.4.1",
